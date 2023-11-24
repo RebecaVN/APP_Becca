@@ -8,4 +8,4 @@
 > - npx expo install react-native-gesture-handler<br>
 > - expo start 
 <br> eas build -p android --profile preview (GERAR APK)
-<img width="100px" src="ass.svg">
+<img width="100%" src="ass.svg">
